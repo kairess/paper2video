@@ -1,8 +1,8 @@
 # Paper2Video
 
-Summarize research papers into YouTube shorts videos.
+Summarize research papers and pdf books into YouTube shorts videos.
 
-100% 자동 논문 요약/번역 및 1분 요약 유튜브 영상 제작 인공지능
+100% 자동 논문/소설 요약/번역 및 1분 요약 유튜브 영상 제작 인공지능
 
 > 유튜브 [빵형의 개발도상국](https://www.youtube.com/@bbanghyong)
 
@@ -10,7 +10,12 @@ Summarize research papers into YouTube shorts videos.
 
 <video src="https://user-images.githubusercontent.com/5242555/226097326-0cb488b7-0567-417b-a260-17fb155d5fe6.mp4" controls></video>
 
-2. EfficientNet
+2. Demian Novel by Hermann Hesse
+
+<video src="https://user-images.githubusercontent.com/5242555/226106550-41eae88a-2bee-4ff6-b4dd-308b5107a588.mp4
+" controls></video>
+
+3. EfficientNet
 
 <video src="https://user-images.githubusercontent.com/5242555/226097319-bddddb15-236f-412f-b556-b10706ad24e1.mp4" controls></video>
 
